@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://zaks0n.github.io/github-api-portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
